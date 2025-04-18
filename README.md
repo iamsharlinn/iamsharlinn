@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Sharlin Sanjid
 ---
+I’m a passionate Data Science graduate with a strong curiosity for uncovering insights from data. I love working at the intersection of statistics, programming, and real-world problem solving. Whether it's analyzing trends or building predictive models, I thrive on turning raw data into meaningful impact.
 
-This is what I Work On
+## 👩‍💻 This is what I Work On
 - NLP (Sentiment Analysis using BERT)
 - Time Series Forecasting (ARCH, GARCH, VAR)
 - Mixed-Effects Modeling in R
